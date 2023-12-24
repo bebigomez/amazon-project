@@ -656,5 +656,35 @@ const products = [
       "apparel",
       "mens"
     ]
+  },
+  {
+    id: "id1",
+    image: "images/products/umbrella.jpg",
+    name: "Amazon Basics Automatic Small Compact Travel Umbrella, One Size, Black",
+    rating: {
+      stars: 4,
+      count: 5123
+    },
+    priceCents: 1699,
+    keywords: [
+      "umbrella",
+      "rain",
+      "outdoors"
+    ]
+  },
+  {
+    id: "id2",
+    image: "images/products/backpack.jpg",
+    name: "Amazon Basics Carry-On Travel Backpack",
+    rating: {
+      stars: 4.5,
+      count: 8134
+    },
+    priceCents: 5059,
+    keywords: [
+      "backpack",
+      "outdoor",
+      "travel"
+    ]
   }
 ];
